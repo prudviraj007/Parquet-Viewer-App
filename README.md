@@ -1,8 +1,8 @@
 # Parquet-Viewer-App
 A handy tool for exploring and analyzing Parquet files effortlessly
 
-![Uploading image.png…]()
 
+<img width="1127" alt="image" src="https://github.com/prudviraj007/Parquet-Viewer-App/assets/4137100/1c5be8c2-9b84-4a6e-b39a-da0c4b81c05b">
 
 
 # Parquet Viewer
